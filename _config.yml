@@ -2,7 +2,7 @@ title: IDLE Press Arcade
 description: Testing out the a starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://rocket5.ca/justthedocs
+url: https://rocket5.github.io/justthedocs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
